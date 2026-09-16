@@ -12,10 +12,4 @@ site experimental inspirado na web brasileira do começo dos anos 2000.
 - vinext
 - cloudflare workers
 
-## rodando localmente
-
-```bash
-npm ci
-npm run dev
-
 feito por **Leonardo Mariano**

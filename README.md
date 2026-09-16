@@ -17,3 +17,5 @@ site experimental inspirado na web brasileira do começo dos anos 2000.
 ```bash
 npm ci
 npm run dev
+
+feito por **Leonardo Mariano**

@@ -15,5 +15,5 @@ site experimental inspirado na web brasileira do começo dos anos 2000.
 ## rodando localmente
 
 ```bash
-npm install
+npm ci
 npm run dev
